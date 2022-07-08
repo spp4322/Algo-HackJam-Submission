@@ -35,6 +35,7 @@ By using our suggested blockchain system of the warranty card, we can prevent an
 ## Tech Stack
 * **Client:** React, Redux, TailwindCSS
 * [Java](https://developer.algorand.org/docs/sdks/java/) / [JavaScript](https://developer.algorand.org/docs/sdks/javascript/) / [Go](https://developer.algorand.org/docs/sdks/go/) / [Python](https://developer.algorand.org/docs/sdks/python/) SDK
+* nft.storage
 * [ASA's Layer1](https://www.algorand.com/technology#ALGORAND-STANDARD-ASSETS)
 
 
