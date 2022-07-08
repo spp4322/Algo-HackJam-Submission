@@ -33,6 +33,7 @@ By using our suggested blockchain system of the warranty card, we can prevent an
 * Usage of Algorand NFTs
 * Add any engagement/gamification construct to the loyalty program
 ## Tech Stack
+* **Client:** React, Redux, TailwindCSS
 * [Java](https://developer.algorand.org/docs/sdks/java/) / [JavaScript](https://developer.algorand.org/docs/sdks/javascript/) / [Go](https://developer.algorand.org/docs/sdks/go/) / [Python](https://developer.algorand.org/docs/sdks/python/) SDK
 * [ASA's Layer1](https://www.algorand.com/technology#ALGORAND-STANDARD-ASSETS)
 
