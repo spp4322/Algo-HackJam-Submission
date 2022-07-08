@@ -1,4 +1,4 @@
-# Algo-HackJam-Submission
+# Algo-HackJam-Submission (Novice)
 
 
 ## eCommerce warranty system using Algorand NFTs
